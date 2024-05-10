@@ -190,15 +190,6 @@ OUTPUT
 
 <img width="752" alt="320506086-3807a057-7d3b-4a1e-83cf-bc61eab17a03" src="https://github.com/naveenkumar0404/VLSI-LAB-EXP-01/assets/127510390/bda2c7bc-b6e5-42c5-8108-f63de1ecd34d">
 
-
-
-VERILOG CODE:
-
-----Type Verilog Code
-
-OUTPUT:
-
------Place a Waveform Generated from Xilinx ISE
-
 RESULT:
+ Thus the simulation and implementation of combinational logic circuit is done and outputs are verified successfully.
 
